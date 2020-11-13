@@ -636,7 +636,7 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   github_id: tomatopunk # GitHub repo owner
   repo: tomatopunk.github.io # Repository name to store issues
   client_id: 041d7a31c8013316e9ae # GitHub Application Client ID
